@@ -1,0 +1,17 @@
+{
+  "owner": "financial-times-sandbox",
+  "installations": [
+    {
+      "id": 366736,
+      "comment": "next-takocat"
+    },
+    {
+      "id": 387114,
+      "comment": "next-settoappu"
+    },
+    {
+      "id": 374147,
+      "comment": "Renovate"
+    }
+  ]
+}
